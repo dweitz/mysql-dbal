@@ -1,0 +1,1 @@
+This project provides a database abstraction layer for PHP to interact with a MySQL database.
